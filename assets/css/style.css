@@ -8,6 +8,16 @@
 
 body{ 
     font-family: Lato, sans-serif;
-    font-weight: 300;    
+    font-weight: 300;   
+    color:#3daf4c; 
+}
+/* headings */
+h1, h3 {
+    font-family: Lato, sans-serif;
+    color: darkslategrey;
 }
 
+#logo{ 
+    float: left;
+    font-size: 200%;
+}
